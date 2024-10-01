@@ -1,0 +1,26 @@
+.Task{
+    /* margin: 5%; */
+    padding: 5%;
+    /* height: 100vh; */
+    margin-left: 5%;
+    margin-right: 5%;
+    /* text-align: center; */
+    color: white;
+    background-color:rgb(13 32 169)
+  
+  }
+  .Head{
+    color: black;
+    background-color: rgb(70 83 78);
+  text-align: center;
+  margin-left: 5%;
+  margin-right: 5%;
+  }
+  button{
+    margin-top: 2%;
+    background-color:blueviolet; 
+    }
+    .Container{
+        
+        margin-top:2% ;
+    }

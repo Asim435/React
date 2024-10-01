@@ -1,13 +1,59 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+/* h1{
+  color: black;
+  background-color: darkGrey;
+text-align: center;
+margin-left: 25%;
+margin-right: 25%;
+} */
+/* span{
+text-align: center;
+  color: blue;
+  background-color: black;
+} */
+/* .Matched{
+  color: brown;
+  text-align: center;
+} */
+/* 
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+button{
+background-color:blueviolet; 
+} */
+ /* .Container{
+   display: flex;
+  flex-direction: row;
+ 
+} 
+button{
+margin: 5px;
+  background-color:green; 
+width: 30%  
+} */
+
+/* .Container>div{
+border: 1px solid rgb(235, 232, 232);
+  width: 3%;
+  height: 5vh;
+  background-color: rgb(227, 222, 222);
+   padding: 25px; 
+  text-align: center;
+
+}  */
+/* .element{
+  flex-grow: 8;
+} */
+/* .weatherReport{
+ border: 2px solid black;
+ margin-inline: 20%;
+ margin-top: 5%;
+ height: 100vh;
+background-color: lightblue;
+
+ 
 }
+.result{
+  margin: 15%;
+  text-align: center;
+  align-items: center;
+   
+} */
